@@ -1,0 +1,15 @@
+{
+  "name": "btcpay_sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "btcpay": "git+https://github.com/tanjalo/node-btcpay.git",
+    "grpc": "^1.15.1"
+  }
+}
